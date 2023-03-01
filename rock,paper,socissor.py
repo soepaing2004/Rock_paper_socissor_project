@@ -6,7 +6,7 @@ player_score=0
 computer_score=0
 
 while True:
-    player=input("If you wnat to close the game enter 'end'."+"\n"+"Enter your choice."+"\n"+"'rock,paper or socissor: ")
+    player=input("If you want to close the game enter 'end'."+"\n"+"Enter your choice."+"\n"+"'rock,paper or socissor: ")
     if player.lower()==computer:
         print("Tie.")
 
